@@ -148,6 +148,7 @@
     "seed": "ts-node --transpile-only ./packages/prisma/seed.ts"
   },
   "packageManager": "yarn@3.4.1",
+  
   "syncpack": {
     "filter": "^(?!@calcom).*",
     "semverRange": ""
